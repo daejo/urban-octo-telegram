@@ -1,10 +1,14 @@
-Horiseon Website
+# Horiseon
 
-Website for a marketing agency. With codebase that follows accessibility standards that'll make the site optimized for search engines.
+## Purpose
+A website that provides social solution services
 
-Created to showcase the ability to refactor codes in a website.
+## Built With
+* HTML
+* CSS
 
-Built with Visual Studio Code.
+## Website
+https://daejo.github.io/urban-octo-telegram/
 
-Info and resources provided by University of Berkeley Extension.
-Work on by David Joaquin
+## Contribution
+Made with ❤️ by [David Joaquin]
