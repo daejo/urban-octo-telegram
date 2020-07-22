@@ -11,4 +11,4 @@ A website that provides social solution services
 https://daejo.github.io/urban-octo-telegram/
 
 ## Contribution
-Made with ❤️ by [David Joaquin]
+Made with ❤️ by David Joaquin
